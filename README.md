@@ -9,8 +9,3 @@ My daily journey of solving Data Structures and Algorithms problems.
 - Maintain consistency
 - Prepare for coding interviews
 
-## 📊 Progress
-
-| Day | Topic | Problems | Status |
-|-----|-------|----------|--------|
-| 01 | Arrays | 3 | 🔄 |
